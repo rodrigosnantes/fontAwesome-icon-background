@@ -1,4 +1,4 @@
-# fontAwesome-icon-background
+# fontawesome-icon-background
 
 <h1 align="center">
     Preview
